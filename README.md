@@ -1,11 +1,11 @@
 # IT_Care_Application_My-Bank
 IT_Care_Application is a Flutter-based project designed as a user-friendly IT support interface for a bank. It streamlines service requests, improves accessibility, and enhances support. Users submit software, hardware, or IT service requests with unique IDs, enabling faster response, better tracking, and smoother operations.
 
-# User login with their personal ID and password
-# Sending their request with ID, Files, or any queries.
-# Two types of service: IT Service, IT Incident
-# Their request service saves in Query List.
-# User can edit their profile or update their profile.
+1. User login with their personal ID and password
+2. Sending their request with ID, Files, or any queries.
+3. Two types of service: IT Service, IT Incident
+4. Their request service saves in Query List.
+5. User can edit their profile or update their profile.
 
 This project is not connected with Api. It's only UI/UX design based on Banking IT Care sector. 
 The source code is private. For collaboration, please contact me.
